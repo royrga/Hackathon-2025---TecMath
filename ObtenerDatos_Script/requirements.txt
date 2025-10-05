@@ -1,0 +1,6 @@
+earthaccess
+xarray
+xarray[complete]
+numpy
+pandas
+
